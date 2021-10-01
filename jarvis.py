@@ -182,9 +182,7 @@ if __name__=='__main__':
         elif "open instagram" in query:
             webbrowser.open("www.instagram.com")
             exit()
-        elif "open my channel" in query:
-            webbrowser.open("www.youtube.com/technicallegendsyt") #paste link of your channel or website in ur computer
-            exit()
+		
         elif "open college portal" in query:
             webbrowser.open("http://www.xyz.com/bete-portal/") #paste link of ur college portal in ur computer
             exit()
